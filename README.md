@@ -1,2 +1,2 @@
 # CP
-CODECHEF
+Code chef competitive programming answers
